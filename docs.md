@@ -1,5 +1,10 @@
 # Installing ArduPilot Directory
 
+# Detailed Youtube Video Link
+
+https://youtu.be/9cYW2FwJXg4
+
+
 # Clone ArduPilot Repo
 Clone this in the home directory
 
