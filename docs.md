@@ -40,7 +40,7 @@ now reload it once
 
     . ~/.bashrc
     
-# Run Simulator
+# Run Simulator ( without gazebo plugin)
 
     cd ~/ardupilot/ArduCopter
     sim_vehicle.py -w
