@@ -8,9 +8,9 @@ https://youtu.be/9cYW2FwJXg4
 # Clone ArduPilot Repo
 Clone this in the home directory
 
-    git clone https://github.com/ArduPilot/ardupilot.git
-    
-    cd ardupilot
+git clone --recurse-submodules https://github.com/Ardupilot/ardupilot.git  
+
+cd ardupilot
     
     git checkout Copter-3.6
     
