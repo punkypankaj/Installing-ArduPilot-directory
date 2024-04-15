@@ -1,6 +1,8 @@
-# Installing ArduPilot Directory
+# Installing ArduPilot Directory 
+Latest tested with Ubuntu 20 and python3
 
 # Detailed Youtube Video Link
+Setup in video is for older ubuntu release i.e Ubuntu 18 and python2
 
 https://youtu.be/9cYW2FwJXg4
 
