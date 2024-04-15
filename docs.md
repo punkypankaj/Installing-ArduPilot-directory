@@ -12,15 +12,18 @@ Clone this in the home directory
 
     cd ardupilot
     
-    git checkout Copter-3.6
     
-    git submodule update --init --recursive
-
-We need to install few python dependencies and also other dependencies that we require.
-
-    sudo apt install python-matplotlib python-serial python-wxgtk3.0 python-wxtools python-lxml python-scipy python-opencv ccache gawk python-pip python-pexpect
     
-    sudo pip install future pymavlink MAVProxy
+   
+
+We need to install few python3 dependencies and also other dependencies that we require. Requirement sheet contains all the packages.
+
+    Tools/environment_install/install-prereqs-ubuntu.sh -y
+
+
+Reload the path (log-out and log-in to make permanent):
+
+    . ~/.profile
 
 Now lets source it by editing the bashrc file
      
